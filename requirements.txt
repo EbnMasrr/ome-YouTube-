@@ -1,0 +1,12 @@
+pyrogram
+TgCrypto
+yt-dlp
+requests
+wget
+youtube_search
+motor
+pymongo[srv]
+pytube
+asyncio
+pyshorteners
+googlesearch-python
